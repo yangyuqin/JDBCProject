@@ -1,0 +1,6 @@
+mysql> create table student(
+    -> id int(4) not null auto_increment,
+    -> name varchar(20) default null,
+    -> score int(3) default 0,
+    -> primary key (id)
+    -> );
