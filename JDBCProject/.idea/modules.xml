@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBCDataSourceModule/JDBCDataSourceModule.iml" filepath="$PROJECT_DIR$/JDBCDataSourceModule/JDBCDataSourceModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCProject.iml" filepath="$PROJECT_DIR$/JDBCProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCTestModule/JDBCTestModule.iml" filepath="$PROJECT_DIR$/JDBCTestModule/JDBCTestModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbcproject/jdbcproject.iml" filepath="$PROJECT_DIR$/jdbcproject/jdbcproject.iml" />
